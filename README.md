@@ -20,3 +20,8 @@ Restart Scheduler for Daily Restarts.
 > RestartDelay: Restart trigger, triggering restart countdown.
 
 > DebugEnabled: For troubleshooting, leave to disabled.
+
+
+## Issues
+
+[Report any issues here.](https://github.com/z3eeK/DailyRestart-RustDS/issues)
