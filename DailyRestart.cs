@@ -39,7 +39,7 @@ namespace Oxide.Plugins
             [JsonProperty("RestartDelay")]
             public int RestartDelay { get; set; } = 300;
             [JsonProperty("Debug")]
-            public int DebugEnabled { get; set; } = 0;
+            public int DebugEnabled { get;} ;
         }
 
         protected override void LoadConfig()
