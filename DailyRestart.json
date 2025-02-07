@@ -1,0 +1,8 @@
+{
+  "RestartTime": "09:00",
+  "BroadcastMessage": "The server will restart in 30 minutes. Your progress will be automatically saved.",
+  "RestartReason": "Scheduled Maintenance: Server downtime will be no longer than 15 minutes",
+  "CountdownTime": 600,
+  "RestartDelay": 300,
+  "DebugEnabled": 0
+}
