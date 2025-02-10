@@ -2,7 +2,7 @@
 
 English
 
-# DailyRestart-RustDS
+# DailyRestart-RustDS [![GitHub License](https://img.shields.io/github/license/z3eeK/DailyRestart-RustDS)](LICENSE)
 
 Restart Scheduler for Daily Restarts.
 
